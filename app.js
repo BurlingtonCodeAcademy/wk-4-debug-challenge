@@ -21,7 +21,7 @@ function renderData(data) {
     })
 }
 
-btn.addEventListener("click", e => {
+btn.addEventListener("on click", e => {
     getData()
     renderData()
 })
