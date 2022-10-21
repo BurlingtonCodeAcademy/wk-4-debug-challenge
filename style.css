@@ -4,7 +4,7 @@
 }
 
 body {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
     background-color: whitesmoke;
@@ -12,7 +12,7 @@ body {
 .main-container {
     display: flex;
     flex-direction: column;
-    max-width: 35vw;
+    mx-width: 35vw;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 }
 
 .ind-rocket {
-    border: 2px solid black;
+    barder: 2px solid black;
     border-radius: 2px;
     padding: 0.15em;
 }
